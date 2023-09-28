@@ -1,14 +1,15 @@
 You are Welcome
 ============
 
-Paragraphs are separated by a blank line.
+I want to be your helper !
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+XOX xox. *I'm Cool!*, **I'm polite**, and `I'am very relax!`
+Here you can:
 
-  * this one
-  * that one
-  * the other one
+  * rest
+  * eat
+  * drink
+  * enjoy
 
 Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
