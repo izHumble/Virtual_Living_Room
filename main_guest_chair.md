@@ -9,7 +9,7 @@ Italic or Bold ( * & _ )
 
 *I'm Cool!*, **I'm polite**, and `I'am very relax!`
 
-Here you can:
+Here you can (* followed by the option):
 
   * rest
   * eat
@@ -20,10 +20,10 @@ Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
 
 > "Tea is the liquid that brings all my senses to life."
->   by Christine Hanse
+>   by Christine Hanse (**>** followed by text)
 >
 >> "Tea is a cup of life."
->>   by Anonymous
+>>   by Anonymous (**>>** followed by text)
 
 We have a tea for u
 ------------
