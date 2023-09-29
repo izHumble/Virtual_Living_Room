@@ -24,6 +24,7 @@ content starts at 4-columns in.
 
 ---
 > "Tea is the liquid that brings all my senses to life."
+
 — Christine Hanse (**>** followed by text)
 
 >> "Tea is a cup of life."
