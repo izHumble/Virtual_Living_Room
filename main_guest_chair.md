@@ -10,7 +10,7 @@ Italic or Bold ( * & _ )
 Grey Highlighted ( ` )
 Strikethrough ( ~~ )
 
-*I'm Cool!*, **I'm polite**, and `I'am very relax!`
+*I'm Cool!*, **I'm polite**, `I'am very relax!` and ~~ooooooooooo~~
 
 Here you can (* followed by the option):
 
@@ -23,9 +23,8 @@ Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
 
 ---
-
 > "Tea is the liquid that brings all my senses to life."
->   ~~ooooooooooo~~by Christine Hanse (**>** followed by text)
+— Christine Hanse (**>** followed by text)
 
 >> "Tea is a cup of life."
 >>   by Anonymous (**>>** followed by text)
