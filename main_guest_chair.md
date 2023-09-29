@@ -7,7 +7,7 @@
 <summary>My top meals of the day</summary>
     Breakfast, 
     Lunch, 
-    Diner, 
+    Diner & 
     Mid-night snack
 </details>
 
