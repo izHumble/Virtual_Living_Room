@@ -1,3 +1,10 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="SUNoTIM" src="https://oktim2023jflev.files.wordpress.com/2023/08/logo_wordp.png">
+</picture>
+
+
 You are Welcome( # & = )
 ===============
 
