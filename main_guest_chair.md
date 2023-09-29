@@ -1,9 +1,14 @@
-You are Welcome
-============
+You are Welcome( # & = )
+===============
 
 I want to be your helper !
 
-XOX xox. *I'm Cool!*, **I'm polite**, and `I'am very relax!`
+Italic or Bold ( * & _ )
+*I* = _Italic_ :
+**B** = __Bold__ :
+
+*I'm Cool!*, **I'm polite**, and `I'am very relax!`
+
 Here you can:
 
   * rest
@@ -17,8 +22,8 @@ content starts at 4-columns in.
 > "Tea is the liquid that brings all my senses to life."
 >   by Christine Hanse
 >
-> "Tea is a cup of life."
->   by Anonymous 
+>> "Tea is a cup of life."
+>>   by Anonymous 
 
 Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
 in chapters 12--14"). Three dots ... will be converted to an ellipsis.
