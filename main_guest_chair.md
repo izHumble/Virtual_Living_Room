@@ -8,7 +8,7 @@ Italic or Bold ( * & _ )
 **II** = __Bold__ :
 
 Grey Highlighted ( ` )
-Strikethrough ( ~ )
+Strikethrough ( ~~ )
 
 *I'm Cool!*, **I'm polite**, and `I'am very relax!`
 
@@ -23,7 +23,7 @@ Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
 
 > "Tea is the liquid that brings all my senses to life."
->  ~-----------~by Christine Hanse (**>** followed by text)
+>   ~~         ~~by Christine Hanse (**>** followed by text)
 
 >> "Tea is a cup of life."
 >>   by Anonymous (**>>** followed by text)
