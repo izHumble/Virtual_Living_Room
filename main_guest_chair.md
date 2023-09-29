@@ -13,8 +13,8 @@ Here you can:
 
   * rest
   * eat
-  * drink
-  * enjoy
+  --- drink
+  -- enjoy
 
 Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
