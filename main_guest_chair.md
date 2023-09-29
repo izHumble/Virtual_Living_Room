@@ -5,15 +5,15 @@
 
 <details>
 <summary>My top meals of the day</summary>
-    Breakfast
-    Lunch
-    Diner
+    Breakfast, 
+    Lunch, 
+    Diner, 
     Mid-night snack
 </details>
 
 <details open>
 <summary>My top moments of the day</summary>
-    SunRise
+    SunRise & 
     SunSet
 </details>
 
