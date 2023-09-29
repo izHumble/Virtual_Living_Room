@@ -5,7 +5,7 @@ I want to be your helper !
 
 Italic or Bold ( * & _ )
 *I* = _Italic_ :
-**B** = __Bold__ :
+**II** = __Bold__ :
 
 *I'm Cool!*, **I'm polite**, and `I'am very relax!`
 
@@ -25,7 +25,7 @@ content starts at 4-columns in.
 >> "Tea is a cup of life."
 >>   by Anonymous 
 
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
+Use 3 dashes for an em-dash (---). Use 2 dashes for ranges (ex., "it's all
 in chapters 12--14"). Three dots ... will be converted to an ellipsis.
 Unicode is supported. ☺
 
