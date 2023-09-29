@@ -14,11 +14,11 @@ Here you can:
 Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
 
-> Block quotes are
-> written like so.
+> "Tea is the liquid that brings all my senses to life."
+>   by Christine Hanse
 >
-> They can span multiple paragraphs,
-> if you like.
+> "Tea is a cup of life."
+>   by Anonymous 
 
 Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
 in chapters 12--14"). Three dots ... will be converted to an ellipsis.
@@ -29,7 +29,7 @@ Unicode is supported. ☺
 We have a tea for u
 ------------
 
-Here's a numbered list:
+Here are tea flavors:
 
  1. first item
  2. second item
