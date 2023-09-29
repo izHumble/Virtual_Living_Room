@@ -13,7 +13,7 @@
 
 <details open>
 <summary>My top moments of the day</summary>
-    SunRise & And
+    SunRise And &
     SunSet
 </details>
 
