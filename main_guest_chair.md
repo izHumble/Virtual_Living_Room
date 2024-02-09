@@ -4,9 +4,6 @@
 </picture>
 
 ![jfl_test](/images/notes_musique.png) - yoyoboy
-![essai1](https://github.com/izHumble/Virtual_Living_Room/images/notes_musiques.png)
-
-
 
 <details>
 <summary>My top meals of the day</summary>
